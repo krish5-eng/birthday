@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Baby's Birthday Surprise 💗</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+
+    body {
+      margin: 0;
+      font-family: 'Montserrat', sans-serif;
+      background: linear-gradient(to bottom right, #ffe6f0, #ffe9f9);
+      overflow-x: hidden;
+    }
+
+    h1 {
+      text-align: center;
+      color: #d10087;
+      font-size: 40px;
+      margin-top: 20px;
+    }
+
+    .section {
+      background: white;
+      margin: 30px auto;
+      padding: 30px;
+      border-radius: 30px;
+      width: 90%;
+      max-width: 700px;
+      box-shadow: 0 0 25px rgba(255, 102, 178, 0.4);
+    }
+
+    .section h2 {
+      color: #ff3399;
+      font-size: 28px;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    .section p {
+      font-size: 18px;
+      color: #660033;
+      line-height: 1.6;
+      text-align: center;
+      white-space: pre-wrap;
+    }
+
+    .memory img {
+      width: 100%;
+      border-radius: 20px;
+      margin-top: 20px;
+    }
+
+    .hearts {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+      z-index: 9999;
+    }
+
+    .heart {
+      position: absolute;
+      color: #ff69b4;
+      font-size: 30px;
+      animation: float 6s linear infinite;
+    }
+
+    @keyframes float {
+      0% {
+        transform: translateY(0);
+        opacity: 1;
+      }
+      100% {
+        transform: translateY(100vh);
+        opacity: 0;
+      }
+    }
+
+    .video-button {
+      display: block;
+      margin: 40px auto;
+      padding: 20px 40px;
+      background-color: #ff66b2;
+      color: white;
+      font-size: 22px;
+      font-weight: bold;
+      border: none;
+      border-radius: 20px;
+      cursor: pointer;
+      box-shadow: 0 0 20px rgba(255, 102, 178, 0.5);
+      transition: 0.3s;
+    }
+
+    .video-button:hover {
+      background-color: #e60073;
+    }
+  </style>
+</head>
+<body>
+
+<audio autoplay loop>
+  <source src="https://cdn.pixabay.com/download/audio/2022/10/05/audio_73cf171f9f.mp3?filename=romantic-piano-loop-112191.mp3" type="audio/mpeg">
+</audio>
+
+<div class="hearts"></div>
+
+<h1>💗 Happy Birthday My Rreeti 💗</h1>
+
+<div class="section">
+  <h2>🎂 Birthday Wish</h2>
+  <p>HAPPY BDAY MYYY LEWIS HAMILTON 💗🤭<br>
+  Jese Ferrari me vo first aata hai na 😤<br>
+  Vese in MYYY DUNIYA you are Lewis Hamilton because ap humesha first ho hehehhehe 💗💗</p>
+</div>
+
+<div class="section">
+  <h2>💌 Love Notes</h2>
+  <p>MYY PRETTYY BABY ITS YOUR BDAY 
+ANDDDDDDDDDDDDDDDD AAPKE BDAY ME AAAPKAA CUTE BANDAAAA AAPKEE LIYEE BOHOT KUCH PLANN KKIYAAAAA HAI HEHEHEHEHEHEHHEHEHEHEHEHEHE
+
+ITS NOT JUST Y O U R BDAY MYY PRETTYYY WIFFEYY
+ITS OUR BDAYY SAMJII?
+O U R BDAY 
+ANDDD YE BDAYY ILL TRYY MY SUPER DUPER BEST TO MAKE YOU FEEL LIKE A CUTIE QUEEN hehehehehehehehhehe
+KYUNKI bday konsa roz aata hai 
+sirf saal me ek baar 
+AND I AMMMMMMM SOOOOOOOOOOOOOOOOOOO KHSUHHH BHAIIII I!!!
+(abhi tohh time hai kyunki me jaldi bana rha hu ye sab)
+PAR YOU WILL READ BDAY ME TOH OFCC BHAIII ITSS YOUR BDAYYY AAAAAAAAAAAAAAAJJJ BHAIIIIIIIIIIIIIIIIII 
+YAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYAYAYAAYAYYAAYAYAYAYAYAYAYAYAYAYAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYAYYYY
+
+RREETI WIFEYYYY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ITSS YOUR BDAYYY MYYYY BEAUTIFUL GODD 
+OUR RADHA KRISHNA JODI IS NEVER ENDING BABY 
+IS JANAM ME BHI HAI AUR ESE HI HAR JANAM ME HOGA 
+andd babyyy honestly bhai 
+krishna bhagwan and radha ji ka replacment we are fr thu thu thu 
+LIKE EXACT SAME BHAI 
+i wishhh aapke amma appa samaj paate toh abhi hi shaadi karwa lete
+
+VO SAB TOH CHODOO BABYYY!
+AAJ AAPKAA BDAYYY HAIIII 
+ILL TRYY MY BEST TO MAKE YOU HAPPYYY 
+ILLL MAKE YOUR YE WALA YEAR KA BDAYY 
+THE BEST BDAYYY MYYY QUEEEEEEEEEEEEN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+I LOVE YOUUU SOOOOOOO MUCHHHHHHHH</p>
+</div>
+
+<div class="section">
+  <h2>🎁 Digital Surprise</h2>
+  <p>BABYYY aaaj skl hua tohh ill give you 2 gifts ek lipgloss aur ek pendant 🤭🤭🤭🤭<br>
+  KIKO KA BABY aapkaa favorite🤭🤭💗💗</p>
+</div>
+
+<div class="section">
+  <h2>📸 Memories</h2>
+
+  <div class="memory">
+    <img src="https://i.postimg.cc/8cMPJFDD/IMG-20250702-230133-997.jpg" alt="Memory 1">
+    <p>I AM YOUR CUTIE LITTLE BABY NA 😭💗</p>
+  </div>
+
+  <div class="memory">
+    <img src="https://i.postimg.cc/PJjn7Sss/IMG-20250702-230127-422.jpg" alt="Memory 2">
+    <p>OMGGG BABY YOUR SMILE IS SO MWAHHH 💗😭</p>
+  </div>
+
+  <div class="memory">
+    <img src="https://i.postimg.cc/8zqKwjgx/IMG-20250702-230123-538.jpg" alt="Memory 3">
+    <p>LOOK AT YOU SO CUTELY POINTING 🧿💗😭</p>
+  </div>
+
+  <div class="memory">
+    <img src="https://i.postimg.cc/6QtR9Xry/IMG-20250702-230117-420.jpg" alt="Memory 4">
+    <p>BHAII KYA SMILEE ... CHEEKS ME KISSI BHI 😭💗</p>
+  </div>
+
+  <div class="memory">
+    <img src="https://i.postimg.cc/9QVYJSxt/IMG-20250702-230039-593.jpg" alt="Memory 5">
+    <p>BHAII KYA KISSS UGHHH I WANNA KISS YOU 💗😭</p>
+  </div>
+
+  <div class="memory">
+    <img src="https://i.postimg.cc/tC9sfjjT/IMG-20250702-230017-809.jpg" alt="Memory 6">
+    <p>WE ARE LOOKING EXACTLY SAME BHAI 😭😭💗💗🧿🧿</p>
+  </div>
+</div>
+
+
+<!-- Heart Falling Animation -->
+<script>
+  const heartsContainer = document.querySelector('.hearts');
+  const emojis = ['💗','💓','💞','💖','💕'];
+
+  function createHeart() {
+    const heart = document.createElement('div');
+    heart.classList.add('heart');
+    heart.style.left = Math.random() * 100 + 'vw';
+    heart.style.animationDuration = (Math.random() * 2 + 3) + 's';
+    heart.innerText = emojis[Math.floor(Math.random() * emojis.length)];
+    heartsContainer.appendChild(heart);
+    setTimeout(() => {
+      heart.remove();
+    }, 6000);
+  }
+
+  setInterval(createHeart, 300);
+</script>
+<div class="section">
+  <h2>🎉 Press to Unlock Final Surprise</h2>
+  <button class="video-button" onclick="document.getElementById('pressReveal').style.display='block'; this.style.display='none';">PRESS ME 💗</button>
+
+  <div class="memory" id="pressReveal" style="display:none;">
+    <img src="https://i.postimg.cc/9QVYJSxt/IMG-20250702-230039-593.jpg" alt="Us Video Pic">
+    <p style="font-size: 20px; color: #d10087; font-weight: bold;">HAPPIIEESTTT BDAYYYYYYY TOO MYYY PRETTIESSTTT CUTIE BABYYY!!! 😭💗💗<br><br>
+    (i misss youuu bohottt hi zyaadaa! 😭😭💗<br>
+    I wantt to kiss you itnaaa saaaaraaaa 😭😭🧿💋💋)</p>
+  </div>
+</div>
+</body>
+</html>
